@@ -1,5 +1,5 @@
 # ATM System
----
+
 #### An ATM  with withdrawal functionality and receipt.
 Project focuses on uml, oop design, and logical thinking. Only the normal usage case with some tweaks handled in code.
 
